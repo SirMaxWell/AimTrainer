@@ -8,7 +8,7 @@
 	"attributions": [],
 	"kind": "Island",
 	"templateCategory": "UserGenerated",
-	"compatibilityVersion": "25.11",
+	"compatibilityVersion": "26.30",
 	"editorPermissions": [],
 	"epicApp": "",
 	"sortPriority": 0,
@@ -16,11 +16,9 @@
 		{
 			"name": "AimTrainer",
 			"bIsRoot": true,
-			"bIsPublic": false,
-			"bEnabled": true
+			"bIsPublic": false
 		}
 	],
-	"dependencies": [],
 	"dataSets":
 	{
 		"matchmaking":
